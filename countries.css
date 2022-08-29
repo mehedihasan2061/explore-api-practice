@@ -1,0 +1,11 @@
+#main-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+}
+.test{
+    border: 2px solid darkorange;
+    background-color: azure;
+    padding: 15px;
+    border-radius: 15px;
+}
